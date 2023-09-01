@@ -1,4 +1,4 @@
-># TIL-WIL-MIL
+># TIL-WIL
 >>## Today I Learned
 ```
 1. 해야할 것
