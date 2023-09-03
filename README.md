@@ -11,8 +11,5 @@
 ```
 >>## Week I Learned
 ```
-
-```
->>## Mmonthly I learned
-```
+한 주 돌아보기
 ```
