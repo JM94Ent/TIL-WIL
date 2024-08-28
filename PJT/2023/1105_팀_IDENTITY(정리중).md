@@ -101,10 +101,24 @@
 ![image](https://github.com/JM94Ent/TIL-WIL/assets/143363550/7ddd2976-5463-4a75-a06e-0842bd45a87c)
 
 2. 더미 데이터 제작
+```
+내려가는 레벨
+```
+![image](https://github.com/user-attachments/assets/b7a5454e-3017-40ac-b281-2f42db4a1e96)
+
+![image](https://github.com/user-attachments/assets/e1c4829c-e480-4a0d-876a-b6f0987b85d3)
 
 
+3. 레벨 제작
+```
+학교, 공수증, 캐비닛
+```
+![image](https://github.com/user-attachments/assets/9b40c968-d457-4628-9c3f-6d2cd4242f68)
 
-3. 레벨 제작 
+![image](https://github.com/user-attachments/assets/578a87a0-4456-4061-afc5-d4e2caa521ae)
+
+![image](https://github.com/user-attachments/assets/a6785db7-3d2d-459f-a677-7d04fefb804f)
+
 </details>
 
 ### 3. 진행과정
