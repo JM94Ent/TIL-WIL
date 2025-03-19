@@ -7,6 +7,8 @@
 
 [유튜브: PCG Tutorial](https://www.youtube.com/watch?v=byouBYMuYPw&list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ&index=2)
 
+[유튜브: PCG Tutorial](https://www.youtube.com/watch?v=PwEDb84sxi8)
+
 # 2. 오늘 배운 것
 
 <details>
