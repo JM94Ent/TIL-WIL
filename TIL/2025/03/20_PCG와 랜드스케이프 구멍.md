@@ -5,9 +5,9 @@
 2. 개인 공부  
 3. 
 
-[유튜브: PCG Tutorial](https://www.youtube.com/watch?v=byouBYMuYPw&list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ&index=2)
+[유튜브: 랜드스케이프 구멍뚫기](https://www.youtube.com/watch?v=bAjoa1D3pFY)
 
-[유튜브: PCG Tutorial](https://www.youtube.com/watch?v=PwEDb84sxi8)
+
 
 # 2. 오늘 배운 것
 
