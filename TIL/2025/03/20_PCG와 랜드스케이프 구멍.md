@@ -11,6 +11,8 @@
 
 [유튜브: PCG](https://www.youtube.com/watch?v=7kU-e5QfY7U&t=45s)
 
+[유튜브: PCG 스플라인](https://www.youtube.com/watch?v=zp1pvaZraGM&list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ&index=3)
+
 [유튜브: 랜드스케이프 머티리얼](https://www.youtube.com/watch?v=lSxDpDyAh2k&list=PLhlDHJpnPTG-WUD_dqu0elvgbbhxklWIu)
 
 
