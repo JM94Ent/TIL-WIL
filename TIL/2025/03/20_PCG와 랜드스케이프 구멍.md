@@ -11,6 +11,8 @@
 
 [유튜브: PCG](https://www.youtube.com/watch?v=7kU-e5QfY7U&t=45s)
 
+[유튜브: 랜드스케이프 머티리얼](https://www.youtube.com/watch?v=lSxDpDyAh2k&list=PLhlDHJpnPTG-WUD_dqu0elvgbbhxklWIu)
+
 
 
 
@@ -23,7 +25,7 @@
 ![image](https://github.com/user-attachments/assets/74040448-5f2e-4b0d-9f52-e50618725fe1)
 
 
-## 랜드스케이프 머티리얼 만들기
+## 랜드스케이프 Displacement
 렌더 스크립트 및에 두줄 추가
 ```
 r.Nanite.AllowTessellation=1
