@@ -7,6 +7,10 @@
 
 [유튜브: 랜드스케이프 구멍뚫기](https://www.youtube.com/watch?v=bAjoa1D3pFY)
 
+[유튜브: 랜드스케이프 머티리얼](https://youtu.be/QJjln8mjGK4?feature=shared)
+
+[유튜브: PCG](https://www.youtube.com/watch?v=AolNZNk87VU)
+
 
 
 # 2. 오늘 배운 것
@@ -17,6 +21,8 @@
 ## 랜드스케이프 구멍 뚫기
 ![image](https://github.com/user-attachments/assets/74040448-5f2e-4b0d-9f52-e50618725fe1)
 
+## PCG
+![image](https://github.com/user-attachments/assets/c793b4b5-110f-4f10-8128-2b3a0ce6c804)
 
 
 </details>
