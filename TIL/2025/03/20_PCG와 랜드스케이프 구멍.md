@@ -53,4 +53,4 @@ r.Nanite.Tessellation=1
 
 # 4. 생각
 
-
+- 역시 뭐든 해봐야한다. PCG도 그렇게 어렵지 않았다.
