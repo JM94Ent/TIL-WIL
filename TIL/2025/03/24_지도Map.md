@@ -12,7 +12,15 @@
 <details>
 <summary>접기/펼치기</summary>
 
-
+## 지도를 언리얼 엔진으로
+언리얼 데칼
+```
+    PNG 임포트
+    Create Material
+    material domain > deferred decal
+    blend mode > translucent
+    texture sample = opacity
+```
 
 
 </details>
