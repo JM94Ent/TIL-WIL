@@ -5,7 +5,7 @@
 2. 개인 공부  
 3. 
 
-
+[유튜브: PCG 스플라인](https://youtu.be/_iDZpQMgFQM?feature=shared)
 
 # 2. 오늘 배운 것
 
