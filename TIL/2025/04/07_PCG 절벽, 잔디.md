@@ -5,6 +5,8 @@
 2. 개인 공부  
 3. 
 
+[유튜브: PCG 잔디](https://www.youtube.com/watch?v=Fifjj_zzPdk)
+
 
 
 # 2. 오늘 배운 것
