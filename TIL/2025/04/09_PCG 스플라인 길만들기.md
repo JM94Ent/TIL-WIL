@@ -5,7 +5,7 @@
 2. 개인 공부  
 3. 
 
-
+[유튜브: 스플라인 길 만들기](https://www.youtube.com/watch?v=dKmOeivQpA4)
 
 # 2. 오늘 배운 것
 
