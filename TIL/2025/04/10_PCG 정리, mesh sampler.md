@@ -37,5 +37,5 @@
 
 
 # 4. 생각
-
-
+- merge points를 사용하면 tag 값들을 하나로 묶을 수 있음
+  - scalebydensity 사용하다가 tag값 하나만 가지고 오는 불상사 때문에 알게됨
