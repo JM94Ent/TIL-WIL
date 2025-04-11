@@ -5,6 +5,7 @@
 2. 개인 공부  
 3. 
 
+[유튜브: 안개 만들기](https://www.youtube.com/watch?v=KQiTjNValbs)
 
 
 # 2. 오늘 배운 것
