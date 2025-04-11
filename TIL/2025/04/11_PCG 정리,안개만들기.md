@@ -9,6 +9,8 @@
 
 [유튜브: 안개 제작](https://www.youtube.com/watch?v=ehufU37e454)
 
+[유튜브: 안개 제작2](https://www.youtube.com/watch?v=dteo2x4asxI)
+
 [도큐먼트: 안개 만들기](https://dev.epicgames.com/documentation/en-us/unreal-engine/local-fog-volumes-in-unreal-engine)
 
 
