@@ -7,6 +7,8 @@
 
 [유튜브: 안개 만들기](https://www.youtube.com/watch?v=KQiTjNValbs)
 
+[유튜브: 안개 만들기2](https://www.youtube.com/watch?v=UqRncX6n8to)
+
 
 # 2. 오늘 배운 것
 
