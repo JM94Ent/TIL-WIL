@@ -21,23 +21,6 @@
 <details>
 <summary>접기/펼치기</summary>
 
-## 안개 머티리얼
-### 디테일 설정
-![image](https://github.com/user-attachments/assets/1e568d04-194c-4767-a277-cdf090b04da4)
-- TransLucent
-- Two sided
-
-### 파라미터 세팅
-![image](https://github.com/user-attachments/assets/2d09a770-ed20-4ac4-bfa5-cec3aa363f5f)
-- 1 노드 만들기
-- s 파라미터 노드 만들기
-- m 곱셈
-
-###
-
-****
-## UV manipulation
-
 
 
 </details>
