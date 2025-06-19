@@ -3,7 +3,7 @@
 
 1. 게임산업 뉴스 읽기 
 2. 개인 공부  
-3. 
+3. 이벤트 리스트 작성
 
 [유튜브: GMTK How Level Design Can Tell a Story](https://youtu.be/RwlnCn2EB9o?si=9kRBCSXJaLo9z6a-)
 
