@@ -15,9 +15,9 @@
 <summary>접기/펼치기</summary>
 
 ## 니어 오토마타 스펙 측정
+![길이](https://github.com/user-attachments/assets/da5ba862-0183-4748-bcad-f10c89f78fd9)
 
-
-
+10m 달리기 측정
 
 
 
