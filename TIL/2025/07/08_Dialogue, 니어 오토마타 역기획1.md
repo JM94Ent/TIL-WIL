@@ -5,12 +5,13 @@
 2. 개인 공부  
 3. 니어 오토마타 역기획
 
-[유튜브: 다이얼로그 시스템](https://www.youtube.com/watch?v=hbs0xaNOeA0&t=729s)
+
 
 # 2. 오늘 배운 것
 
 <details>
 <summary>접기/펼치기</summary>
+
 
 
 
