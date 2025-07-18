@@ -5,6 +5,7 @@
 2. 개인 공부  
 3. 
 
+[유튜브: 카메라 변경](https://youtube.com/shorts/-78KDZQbnes?feature=shared)
 
 
 # 2. 오늘 배운 것
