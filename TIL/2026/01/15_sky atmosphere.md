@@ -9,47 +9,36 @@
 
 [유튜브: 디스아너드 레벨 브레이크다운](https://www.youtube.com/watch?v=pVQDWX3lv_w)
 
+[언리얼: 스카이 애트머스피어](https://dev.epicgames.com/documentation/ko-kr/unreal-engine/sky-atmosphere-component-in-unreal-engine)
+
 
 # 2. 오늘 배운 것
 
-이동 유도
+디스아너드 레벨 뜯어보기
 
 <details>
 <summary>접기/펼치기</summary>
 
-## 레벨 제작 시 주의사항
-### 1. 공간이 지나치게 크면 안된다
-- 플레이어를 꼐속 달리게 한다
-- 레벨 아티스트 작업량이 높아진다
-- 플레이어의 주의를 끌어당기기가 어렵다
-- 작은 공간에서 시작하자
 
-### 2. 대칭적인 구조
-<img width="1462" height="873" alt="image" src="https://github.com/user-attachments/assets/28d6d58e-07f2-48cd-b882-1475db5bb403" />
-
-- 대칭적인 구조/선택은 의미 있게 만들기 어렵다
-- 대칭 구조라면 정문이 아닌 옆에서 들어가게 만들자
-
-### 3. 너무 평평하면 재미없다
-
-### 4. 너무 개방적
-- 개방적이면 스크립팅에 어려움이 생길 수 있다
-- 환경을 탐험하는 호기심을 제한한다
-
-### 5. 공간이 텅 비어보인다
-- 흥미 유발하거나 재미를 줄만한 것이 없다면 공간 자체가 의미가 없어진다
-
-### 6. 선형적인 레벨
-- 선형적인 레벨이어도 다양한 방식으로 선택을 할 수 있는 기회를 줘야 한다
-
-### 7. 똑같은 레벨
-- 시각적이나 상호작용을 다르게 해서 경험의 차이를 줘야 한다
-
-### 8. 평범한 레이아웃
-- 게임 플레이/메카닉을 강조하면 평범함을 벗어날 수 있다
 
 
 </details>
+
+sky atmosphere의 Aerial perspective view distance scale 값 변경
+
+<details>
+<summary>접기/펼치기</summary>
+
+## Sky Atmosphere
+### Aerial perspective view distance scale 대기 원근 스케일
+<img width="444" height="67" alt="image" src="https://github.com/user-attachments/assets/966230d3-7a14-401b-aab8-150d3251336d" />
+
+기본값은 1로 설정되어 있는데 레벨 내에서 안개선이 생긴다.\
+이를 0으로 바꾸면 레벨 내에서 안개 선이 보이던 것을 없앨 수 있다.
+
+
+</details>
+
 
 
 # 3. 개선
