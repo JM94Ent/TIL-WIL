@@ -14,15 +14,6 @@
 
 # 2. 오늘 배운 것
 
-디스아너드 레벨 뜯어보기
-
-<details>
-<summary>접기/펼치기</summary>
-
-
-
-
-</details>
 
 sky atmosphere의 Aerial perspective view distance scale 값 변경
 
