@@ -13,9 +13,7 @@
 <details>
 <summary>접기/펼치기</summary>
 
-게릴라 게임즈(Guerrilla Games)의 시니어 퀘스트 디자이너 블레이크 레부쉬(Blake Rebouche)가 GDC(Game Developers Conference)에서 발표한 **'호라이즌 제로 던(Horizon Zero Dawn) 퀘스트의 액션과 RPG 균형 맞추기'** 강연 내용을 정리해 드립니다.
 
-이 강연은 전통적인 RPG 디자인 배경을 가진 제작진이 어떻게 액션 게임의 노하우를 결합하여 독특한 퀘스트 경험을 만들어냈는지에 대한 심층적인 내용을 담고 있습니다.
 
 ### 1. 도입 및 배경
 
