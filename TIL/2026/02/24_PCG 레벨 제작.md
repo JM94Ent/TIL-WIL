@@ -5,8 +5,9 @@
 1. 게임산업 뉴스 읽기 
 2. 개인 공부
 
+[유튜브: PCG 레벨 제작](https://www.youtube.com/watch?v=icIFFlOyob4&t=739s)
 
-[유튜브: NDC 스토리텔링](https://youtu.be/xkaLQ8WAQIE?si=VXC4W5aG1LWQ-z4N)
+
 
 # 2. 오늘 배운 것
 
