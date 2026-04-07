@@ -5,7 +5,7 @@
 1. 게임산업 뉴스 읽기 
 2. 개인 공부
 
-
+[유튜브: 도시 레벨디자인 10팁](https://youtu.be/LCacISZnHME?si=4tb_yGW4Q3dzYiKA)
 
 # 2. 오늘 배운 것
 
