@@ -5,11 +5,11 @@
 
 2. 오늘 배운 것
 
-3. 개선점
+3. 생각
 
-4. 생각
 ```
 >>## Week I Learned
 ```
 한 주 돌아보기
 ```
+[블로그 링크](https://blog.naver.com/jmwoo_)
