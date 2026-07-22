@@ -73,6 +73,55 @@
 
 </details>
 
+<details>
+<summary>접기/펼치기</summary>
+
+
+결론부터 말하면, 아이소매트릭 레벨디자인은 “멋진 지형을 만드는 법”보다 **한 화면 안에서 이동 가능성, 위험, 목표, 높낮이가 즉시 읽히게 만드는 법**을 먼저 공부해야 해요. 3인칭 액션 경험은 전투 템포와 조작감 쪽에 큰 자산이고, 새로 익힐 핵심은 카메라 고정, 가독성, 폐색, 경로 설계입니다.
+
+**공부 우선순위**
+
+1. **카메라 문법**
+   아이소매트릭/탑다운은 카메라가 멀고 고정적이라, 레벨이 곧 카메라 연출입니다. 먼저 화면에 보이는 플레이 영역, 줌, 캐릭터 크기, 공격 거리, 회피 거리부터 수치화하세요. Unreal의 Top Down 템플릿도 전략 변형에서 orthographic camera로 아이소매트릭 뷰를 만들고, 지붕을 잘라 보이게 하는 처리를 제공합니다.  
+   출처: [Unreal Top Down Template](https://dev.epicgames.com/documentation/unreal-engine/top-down-template-in-unreal-engine?lang=en-US)
+
+2. **가독성 / 시각적 우선순위**
+   3인칭에서는 카메라가 적, 문, 길을 보여줄 수 있지만 아이소매트릭은 화면 전체가 동시에 읽혀야 합니다. 배경은 눌러주고, 캐릭터/적/위험 장판/상호작용 오브젝트는 강하게 분리해야 해요. Diablo III 아트 분석에서도 배경, 액션, UI를 층으로 나누고 캐릭터 조명과 경로 대비를 강화한 점이 핵심으로 설명됩니다.  
+   출처: [Game Developer: Diablo III art direction](https://www.gamedeveloper.com/design/gdc-2012-diablo-iii-s-art-director-shows-off-design-process)
+
+3. **폐색 처리**
+   가장 자주 망가지는 부분입니다. 나무, 벽, 지붕, 기둥, 다리 아래로 플레이어가 들어가면 보이지 않아요. 그래서 “높은 오브젝트를 덜 쓰기”, “투명화”, “실루엣 표시”, “카메라 컷아웃” 중 하나를 시스템으로 정해야 합니다. GDC 레벨디자인 Q&A에서도 아이소매트릭 카메라 뒤에 플레이어가 가려지면 fade/silhouette 같은 해결책이 필요하다고 말합니다.  
+   출처: [GDC 2018 Level Design Workshop Q&A](https://www.gamedeveloper.com/design/gdc-2018-level-design-workshop-an-expert-roundtable-q-a)
+
+4. **길 안내와 공간 흐름**
+   랜드마크, 조명, 길 모양, 적 배치, 보상 배치로 플레이어 시선을 유도하는 법을 공부하세요. 아이소매트릭에서는 미니맵에 의존하기 전에 “바닥 패턴만 봐도 어디로 가야 하는지”가 보여야 합니다.  
+   출처: [Level design: Tricks of the trade](https://www.gamedeveloper.com/design/level-design-tricks-of-the-trade)
+
+5. **레벨 패턴**
+   처음부터 거대한 던전을 만들지 말고, 작은 패턴을 익히세요: 안내, 안전지대, 복선, 층위, 분기, 템포 전환. Khalifa, de Mesentier Silva, Togelius의 2019년 연구는 30개 이상 2D 게임을 분석해 이런 반복 패턴을 정리했습니다. 아이소매트릭도 화면 기반으로 읽히기 때문에 이 패턴들이 꽤 잘 먹힙니다.  
+   출처: [Level Design Patterns in 2D Games, IEEE CoG 2019](https://www.um.edu.mt/library/oar/handle/123456789/82005)
+
+6. **전투 아레나 설계**
+   3인칭 액션처럼 “카메라가 멋있게 잡아주는 공간”이 아니라, 위에서 봤을 때 전투 의도가 드러나는 형태를 만들어야 합니다. 원형 아레나는 포위전, 긴 다리는 압박과 회피 제한, ㄷ자 구조는 유도와 매복, 넓은 광장은 보스/다수전처럼 역할을 정하세요.
+
+7. **백트래킹 줄이기**
+   던전형 아이소매트릭 게임은 되돌아가는 시간이 지루하게 느껴지기 쉽습니다. Diablo IV도 베타 피드백 후 던전의 과도한 백트래킹을 줄이도록 레이아웃과 목표 위치를 조정했습니다.  
+   출처: [Diablo IV Open Beta Retrospective](https://news.blizzard.com/en-us/article/23938289/diablo-iv-open-beta-retrospective-transforming-feedback-into-change)
+
+**추천 실습**
+
+첫 달에는 큰 레벨 말고 “한 화면짜리 테스트 레벨”만 만드세요.
+
+1주차: 캐릭터 크기, 회피 거리, 공격 거리, 문 폭, 복도 폭을 정한 metric test map 만들기  
+2주차: 나무/벽/지붕으로 일부러 가려지는 상황을 만들고 투명화/실루엣 처리 실험하기  
+3주차: 원형, 다리, ㄷ자, 십자형 아레나를 만들고 같은 적 조합을 넣어 비교하기  
+4주차: 시작점-전투-보상-분기-목표-귀환 구조의 3분짜리 미니 던전 만들기
+
+분석할 게임은 장르에 따라 다릅니다. 빠른 액션이면 `Hades`, `Death's Door`, `Bastion`; ARPG면 `Diablo III/IV`, `Path of Exile`; 전술이면 `XCOM`, `Triangle Strategy` 쪽을 화면 캡처해서 “길, 위험, 보상, 폐색, 전투 공간”만 따로 표시해보면 좋아요.
+
+
+</details>
+
 
 
 # 3. 생각
