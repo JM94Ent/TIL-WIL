@@ -8,7 +8,7 @@
 
 # 2. 오늘 배운 것
 
-
+**Save The Cat**
 <details>
 <summary>접기/펼치기</summary>
 
@@ -73,6 +73,8 @@
 
 </details>
 
+
+**아이소메트릭뷰**
 <details>
 <summary>접기/펼치기</summary>
 
